@@ -1,2 +1,2 @@
 # plants-diseases-leafsnap
-Flutter Android & iOS Flowers Recogniser App [Deep Learning & Machine Learning]
+Flutter Android & iOS Plant Decease Recogniser App [Deep Learning & Machine Learning]
